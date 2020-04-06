@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7 15" width="7" height="15">
-	<defs>
-		<image width="7" height="15" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAPCAMAAAAf3yWMAAAAdVBMVEUAAAA7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZk7WZmP5iMCAAAAJ3RSTlMABEu/6PPZOu3/6mXwuo5vlyWTqDIrx/f2w9tyvMiAU2SBeJF68ol82tSXAAAAUElEQVR4nH3KRwKCQADAwNiJYFulrqLS/v9ExQeYy1wCi+VqvdnCLlH3kGp2OMJJz8Al6PWWU5RaZTX+aoh3fbRPeOn7+9Fp/89Bw2wcxwk+E98FIaWr9R0AAAAASUVORK5CYII="/>
-	</defs>
-	<style>
-		tspan { white-space:pre }
-	</style>
-	<use id="facebook-letter-logo copy" href="#img1" x="0" y="0" />
-</svg>
