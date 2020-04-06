@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 13" width="15" height="13">
+	<defs>
+		<image width="15" height="13" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAANCAMAAABBwMRzAAAA0lBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+Gi8hrAAAARnRSTlMAC1iyXgMBVMPsqC0doP/rP1DxOdaHELjb2uerJWS6/dQuFVrEEWH8heIxqTaEW5VJkjXLKOngTg+xgG6MAiSRBUrVuUMI52AicQAAAJNJREFUeJw9jtcSglAMRNcCCupaUAS7WLD33uv//5LhjrovJ2czkwmAUDgS1QA9FjfMBJBMkekMkM2RNGHlBSzALgZ0YLolYRmVaq1ONtD0WuLtDtD1yR4A2yH7A2Ao/UhcG5P+BJbcm+rimMlivliSrhcoVga53ki5VYrdnioHfHNUejr//BL8dL3hn/vj+Xqr6QP6IQ1jfVoC7wAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="vimeo-logo copy" href="#img1" x="0" y="0" />
+</svg>

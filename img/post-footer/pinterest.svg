@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 15" width="13" height="15">
+	<defs>
+		<image width="13" height="15" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAPCAMAAAAI/bVFAAABI1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9FvXt4AAAAYXRSTlMAAjGLv/DotlAKAXL7/+Pc4vynEVj2iisEC3rziAMX3vh4DIJlhP4lOsgYr+VB6ktWrO7UIk/xVzXCPaCJDtfJa7jsGzaPg5Js734Fati5D561e/LWFCDZJh4v5jA4qq47a/SBsQAAALFJREFUeJxFjWlXAQEARZ8m2XoxyBKiGmOp7GUsLUykUBnZ1///K8ycTtxP75774QEwHQnH5hOL1QYdu+OUZ06XSLdHL16e+/yB4EWI4Qguo7Gr6xspgLgoJ5BkKn3LOz/uM8wix3y6wGIJD48sQ2GlWmTNjjqp4OmZwgtfgQabKvDWasf4rnY++Nk1Hnsk++TXtyGRHw604a82MgTjCSVMZ/hjLi+W2LPi2nSw+Wb7P3dkMBXdqWJ4LgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="pinterest copy" href="#img1" x="0" y="0" />
+</svg>

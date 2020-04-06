@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 15" width="13" height="15">
+	<defs>
+		<image width="13" height="15" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAPCAMAAAAI/bVFAAABR1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////86aXtaAAAAbXRSTlMAEXaRiTwBP++DKWktIVEXIrR6X+KWW9kZhHxQm5lczT0cl3ln23j6RU4gNKAoRBAuYWZWVFdPUifL//bVN5qmr7Ciw6yYI2zcwq4bsT5NqLLBzGIdO3TEXqkJkkBjWo/p4ZTk35/oi+zy8PXr/IJsFAAAALxJREFUeJxjYGBkYmZhZWOAAXYOTi5uHl4+fjBPQFBIWERUTJwdzJOQlJKWkZWTVwDzFJWUVVSV1NQ1IBo1tbR1dPVk9EFsA0MjYxNTTWkzcwsGBm1LK2srCLCxZbCzN3ewsrJzBHGdGJzteVxcRTTcRJzdPTwZnG1UvLx9fPWc/QT8AxgCg4KdQhxCw8INgi19GJwtIyKjomMMBGPjwgUZ4hMiE0U9XZKSU1LT0hkEHDMysziyODKzc3zcAGaoIoxCapzmAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="youtube-logo copy" href="#img1" x="0" y="0" />
+</svg>

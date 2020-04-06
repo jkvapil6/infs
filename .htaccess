@@ -1,0 +1,16 @@
+Options -Indexes
+RewriteEngine On
+
+AddType application/x-httpd-php .php .phtml
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^search search-page.php [NC,L]
+
+RewriteRule ^category/([0-9a-zA-Z]+) category-page.php?category=$1 [NC,L]
+
+RewriteRule ^([0-9a-zA-Z_-]+)/([0-9]+) post-page.php?category=$1&id=$2 [NC,L]
+
+#nefunguje
+#RewriteRule !\.(css|js|icon|zip|rar|png|jpg|gif|pdf)$ index.php [L]
